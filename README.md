@@ -1,26 +1,16 @@
  <!-- <h4 align="center"> 
 ---
-	🚧  Projeto NutriLab-Django 🚀 Em construção...  🚧
+	🚧  Projeto Sendmail-django 🚀 Em construção...  🚧
 </h4> 
 
 <hr> -->
 
-<h1 align="center">NutriLab - PyStack Week 4.0</h1>
+<h1 align="center">Sendmail-django</h1>
 
 
 <div align="center" id="top">
   <img alt="cadastro e login" title="cadastro e login" src="./cadastro_and_login.gif"/>
 </h1>
-
-  <img alt="gerenciar_pacientes.gif" title="gerenciar pacientes" src="./gerenciar_pacientes.gif"/>
-</h1>
-
-  <img alt="dados_paciente" title="dados paciente" src="./dados_paciente.gif"/>
-</h1>
-
-  <img alt="plano_alimentar" title="plano alimentar" src="./plano_alimentar.gif"/>
-</h1>
-
 
   &#xa0;
  
