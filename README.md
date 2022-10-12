@@ -19,7 +19,7 @@
  
  
  <!--
- <h1 align="center">NutriLab - PyStack Week 4.0</h1>
+ <h1 align="center">Sendmail-django</h1>
 -->
 
 <p align="center">
