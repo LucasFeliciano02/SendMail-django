@@ -38,7 +38,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Projeto feito em Django cujo o objetivo é uma aplicação para nutricionistas gerenciarem seus pacientes. 
+• Fomulário que deve ser preenchido com parâmetros e enviado para um email. 
 ```
 
 ## :sparkles: Funcionalidades ##
