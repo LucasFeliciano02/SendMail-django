@@ -44,12 +44,9 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Cadastro de Usuário e login do nutricionista;\
-:heavy_check_mark: Nutricionista pode criar pacientes e gerenciá-los;\
-:heavy_check_mark: Colocar dados no paciente como peso, altura, gordura, dados laboratoriais;\
-:heavy_check_mark: Ao colocar os dados, aparecerá uma tabela de linha que tende a subir ou descer conforme a próximo dado;\
-:heavy_check_mark: Gerenciar o plano alimentar do paciente colocando a refeição, horário, macronutrientes, descrição e imagem;\
-:heavy_check_mark: Por ser um arquivo de estudo, pode conter diversos comentários que o auxiliam no uso do django.
+:heavy_check_mark: Preencher formulário e enviar dados para um email;\
+:heavy_check_mark: Preencher dados e colocar email destinatário;\
+:heavy_check_mark: informaçõpes colocadas no formulário aparecerão no email destinatário.
 
 
 ## :rocket: Tecnologias ##
