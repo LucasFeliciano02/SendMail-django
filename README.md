@@ -44,7 +44,7 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Preencher formulário e enviar dados para um email;\
+:heavy_check_mark: Preencher formulário com dados como: nome, email remetente, assunto e mensagem;\
 :heavy_check_mark: Preencher dados e colocar email destinatário;\
 :heavy_check_mark: informaçõpes colocadas no formulário aparecerão no email destinatário.
 
