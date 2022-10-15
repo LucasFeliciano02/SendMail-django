@@ -45,7 +45,7 @@
 
 
 :heavy_check_mark: Preencher formulário com dados como: nome, email remetente, assunto e mensagem;\
-:heavy_check_mark: Preencher dados e colocar email destinatário;\
+:heavy_check_mark: Esses dados aparecerão no email destinatário conforme está configuado em views;\
 :heavy_check_mark: informaçõpes colocadas no formulário aparecerão no email destinatário.
 
 
