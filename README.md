@@ -38,7 +38,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Fomulário que deve ser preenchido com parâmetros e enviado para um email. 
+• Preencher formulario com dados e colocar o email destinatário que receberá essas informações. 
 ```
 
 ## :sparkles: Funcionalidades ##
