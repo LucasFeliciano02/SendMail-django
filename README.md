@@ -1,9 +1,9 @@
- <!-- <h4 align="center"> 
----
+ <h4 align="center"> 
+
 	🚧  Projeto Sendmail-django 🚀 Em construção...  🚧
 </h4> 
 
-<hr> -->
+<hr> 
 
 <h1 align="center">Sendmail-django</h1>
 
