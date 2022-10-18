@@ -46,7 +46,7 @@
 
 :heavy_check_mark: Preencher formulário com dados, tais como: nome, email remetente, assunto e mensagem;\
 :heavy_check_mark: Esses dados de texto aparecerão no email destinatário;\
-:heavy_check_mark: informaçõpes colocadas no formulário aparecerão no email destinatário.
+:heavy_check_mark: informações colocadas no formulário aparecerão no email destinatário.
 
 
 ## :rocket: Tecnologias ##
