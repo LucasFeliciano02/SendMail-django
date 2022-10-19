@@ -110,10 +110,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 # Criar projeto
  ->  (env) django-admin startproject contactform .
 
-# Criar apps
- ->  (env) python manage.py startapp autenticacao
-     (env) python manage.py startapp plataforma
-
 # Migrations
  ->  (env) python manage.py makemigrations
      (env) python manage.py migrate
