@@ -116,8 +116,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 
 # Executar projeto
 ->  (env) python manage.py runserver
-
-OBS: Os arquivos do projeto podem ter muitos comentários pois são arquivos de estudo
 ```
 
 
