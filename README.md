@@ -116,6 +116,8 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 
 # Executar projeto
 ->  (env) python manage.py runserver
+
+# Obs: Colocar as informações de email pessoal rementente em .env e sua senha para funcionar o envio de email.
 ```
 
 
