@@ -104,8 +104,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 # Instalar bibliotecas
  -> (env) pip install django
     (env) pip install pillow
-    (env) pip freeze > requirements.txt
-    (env) pip install -r requirements.txt
 
 # Criar projeto
  ->  (env) django-admin startproject contactform .
