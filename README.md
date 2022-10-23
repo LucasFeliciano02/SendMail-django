@@ -91,7 +91,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 ```bash
 # Clone este repositorio
  -> git bash here
-  $ https://github.com/LucasFeliciano02/form_sendmail-django.git
+  $ https://github.com/LucasFeliciano02/form_sendMail-django.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code
