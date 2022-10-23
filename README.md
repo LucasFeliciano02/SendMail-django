@@ -5,7 +5,7 @@
 
 <hr> 
 
-<h1 align="center">Sendmail-django</h1>
+<h1 align="center">SendMail-django</h1>
 
 
 <div align="center" id="top">
