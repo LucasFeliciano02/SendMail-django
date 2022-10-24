@@ -5,11 +5,11 @@
 
 <hr> 
 
-<h1 align="center">Sendmail-django</h1>
+<h1 align="center">SendMail-django</h1>
 
 
 <div align="center" id="top">
-  <img alt="cadastro e login" title="cadastro e login" src="./cadastro_and_login.gif"/>
+  <img alt="cadastro e login" title="cadastro e login" src="./readme_gif/send_mail.gif"/>
 </h1>
 
   &#xa0;
@@ -46,8 +46,8 @@
 
 :heavy_check_mark: Preencher formulário com dados, tais como: nome, email remetente, assunto e mensagem;\
 :heavy_check_mark: Esses dados de texto aparecerão no email destinatário;\
-:heavy_check_mark: informações colocadas no formulário aparecerão no email destinatário.
-
+:heavy_check_mark: informações colocadas no formulário aparecerão no email destinatário;\
+:heavy_check_mark: Projeto totalmente funcional com envio de email utilizando o protocolo smtp.
 
 ## :rocket: Tecnologias ##
  
@@ -91,7 +91,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 ```bash
 # Clone este repositorio
  -> git bash here
-  $ https://github.com/LucasFeliciano02/form_sendmail-django.git
+  $ https://github.com/LucasFeliciano02/form_sendMail-django.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code
