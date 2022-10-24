@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ccc;
+    background-color: rgb(3, 7, 34);
 }
 
 .contact-form {
@@ -19,23 +19,26 @@ body {
 
 input, textarea {
     width: 100%;
-    background-color: lightblue;
+    background-color: rgb(203, 204, 204);
     border: none;
     padding: 0.5rem;
+    font: sans-serif; 
 }
+
 
 input:focus,
 textarea:focus {
-    outline: none;
+    color: black;
 }
 
 .tag {
     padding: 5px 0;
-    font-size: 20px;
+    font-size: 17px;
+    color: white;
 }
 
 .container {
-    background-color: steelblue;
+    background-color: rgb(26, 81, 122);
     padding: 2rem;
     border-radius: 10px;
     overflow: none;
@@ -43,7 +46,7 @@ textarea:focus {
 }
 
 .submit-btn {
-    background-color: lightslategrey;
+    background-color: rgb(177, 55, 18);
     border: none;
     width: 100%;
     padding: 1rem;
@@ -53,11 +56,5 @@ textarea:focus {
 }
 
 .submit-btn:hover {
-    background-color: slategrey;
+    background-color: rgb(156, 46, 13);
 }
-
-
-
-
-
-
