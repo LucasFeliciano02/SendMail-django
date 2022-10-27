@@ -1,5 +1,6 @@
 {% load static %}
 
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -11,32 +12,42 @@
 </head>
 <body>
     <div class="container">
-        <form action="" method="POST" class="contact-form">
-            {% csrf_token %}
+        <form action="" method="POST" class="contact-form">{% csrf_token %}
+            {% if messages %}
+                {% for message in messages %}
+                    <div class="alert {{message.tags}}">
+                        {{message}}
+                    </div>
+                {% endfor %}
+            {% endif %}   
+            <br>
+            
             <div class="form-control">
-                <div class="tag">Full Name</div>
+                <div class="tag">Nome</div>
                 <input type="text" name="full-name">
             </div>
-
+            <br>
             <div class="form-control">
-                <div class="tag">Email</div>
+                <div class="tag">Email*</div>
                 <input type="text" name="email">
             </div>
-
+            <br>
             <div class="form-control">
-                <div class="tag">Subject</div>
+                <div class="tag">Assunto</div>
                 <input type="text" name="subject">
             </div>
-
+            <br>
             <div class="form-control">
-                <div class="tag">Message</div>
-                <textarea name="message" cols="30" rows="10"></textarea>
+                <div class="tag">Mensagem</div>
+                <textarea  name="message" cols="30" rows="10"></textarea>
             </div>
-
+            <br>
             <div class="form-control">
                 <input type="submit" class="btn submit-btn" value="Send Message">
             </div>
+            
         </form>
     </div>
+
 </body>
 </html>
