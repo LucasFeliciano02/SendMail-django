@@ -1,10 +1,3 @@
- <h4 align="center"> 
-
-	🚧  Projeto Sendmail-django 🚀 Em construção...  🚧
-</h4> 
-
-<hr> 
-
 <h1 align="center">SendMail-django</h1>
 
 
