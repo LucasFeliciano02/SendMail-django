@@ -1,5 +1,3 @@
-<h1 align="center">SendMail-django</h1>
-
 
 <div align="center" id="top">
   <img alt="cadastro e login" title="cadastro e login" src="./readme_gif/send_mail.gif"/>
@@ -11,9 +9,8 @@
  </div>
  
  
- <!--
  <h1 align="center">Sendmail-django</h1>
--->
+
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
