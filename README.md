@@ -1,4 +1,6 @@
-
+ <h1 align="center">Sendmail-django</h1>
+ 
+ 
 <div align="center" id="top">
   <img alt="cadastro e login" title="cadastro e login" src="./readme_gif/send_mail.gif"/>
 </h1>
@@ -7,9 +9,7 @@
  
 
  </div>
- 
- 
- <h1 align="center">Sendmail-django</h1>
+
 
 
 <p align="center">
