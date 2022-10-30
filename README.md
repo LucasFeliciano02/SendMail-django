@@ -10,7 +10,7 @@
 
  </div>
 
- <h1 align="center">SendMail</h1>
+ <h1 align="center">SendMail-Form</h1>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
