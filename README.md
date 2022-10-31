@@ -2,7 +2,7 @@
  
  
 <div align="center" id="top">
-  <img alt="cadastro e login" title="Formulário" src="./readme_gif/send_mail.gif"/>
+  <img alt="Formulário" title="Formulário" src="./readme_gif/send_mail.gif"/>
 </h1>
 
   &#xa0;
