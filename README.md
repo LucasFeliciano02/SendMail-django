@@ -34,7 +34,7 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Preencher formulário com dados, tais como: nome, email remetente, assunto e mensagem;\
+:heavy_check_mark: Preencher formulário com dados, tais como: nome, email destinatário, assunto e mensagem;\
 :heavy_check_mark: Esses dados de texto aparecerão no email destinatário;\
 :heavy_check_mark: informações colocadas no formulário aparecerão no email destinatário;\
 :heavy_check_mark: Projeto totalmente funcional com envio de email utilizando o protocolo smtp.
